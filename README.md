@@ -1,1 +1,1 @@
-# katalon-studio-webinar-demo
+# For CI/CD webinar demo
