@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-sm-12 text-center">
                 <h2>Login</h2>
-                <p class="lead">Please login to make KATALON</p>
+                <p class="lead">Please login to make CAMBIO</p>
                 <?php if (_f::getError() !== null) : ?>
                     <p class="lead text-danger"><?php echo _f::getError(); ?></p>
                 <?php endif; ?>
